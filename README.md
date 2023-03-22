@@ -22,7 +22,7 @@
 <div align = "center">
   <br/>
   <a href = "https://git-scm.com" target="_blank"><img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a> 
-  <a href = "https://docs.djangoproject.com/pt-br/4.0/" target="_blank"><img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" target="_blank"></a>
+ target="_blank"></a>
 </div>
 
 <div align = "center">
