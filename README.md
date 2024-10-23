@@ -23,7 +23,7 @@ Sou um desenvolvedor apaixonado por tecnologia, Ao longo dos anos, tive a oportu
 
 ---
 
-## ⭐ GitHub Stats
+## ⭐ GitHub Status
 
 <div align="center">
   <a href="https://github.com/KelvemC">
